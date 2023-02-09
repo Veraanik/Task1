@@ -1,0 +1,10 @@
+.NGASY{
+    display: flex;
+    justify-content: center;
+    background-color: #FDF5E6;
+}
+.Name{
+    display: flex;
+    justify-content: center;
+    background-color: #FFDEAD;
+}
